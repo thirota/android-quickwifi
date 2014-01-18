@@ -1,11 +1,18 @@
 # QuickWifi
 
-Simple Android application turning on/off wifi and airplane mode.
+Simple utility to toggle wifi and airplane mode.
+
+![off](android-quickwifi-off.png) ![on](android-quickwifi-on.png)
+
+## Platform
+
+Android 2.2 or later
 
 ## License
 
 [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
-## Platform
+## Author
 
-Android 2.2 or later
+Takayuki Hirota
+
